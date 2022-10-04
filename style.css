@@ -1,0 +1,39 @@
+table {
+  color: lightblue;
+}
+
+li[height="90"] {
+  color:lightblue;
+}
+.privet {
+  color:green;
+}
+
+[ href="#ideveloper"] {
+  font-weight: bold;
+  color:orange;
+}
+
+html tr {
+  color:blue;
+}
+
+.list>li {
+  color:green;
+}
+
+.font-size-md {
+  font-size: 18px;
+}
+
+.level {
+  color:purple;
+}
+
+.font-size-md.color-red {
+  color: red;
+}
+
+.font-size-md.color-black {
+  color: black;
+}
